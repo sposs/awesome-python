@@ -287,6 +287,7 @@ long, literate-programming-style documentation generator.
 *Libraries for connecting and operating databases.*
 
 * Relational Databases
+	* [cx_Oracle] (http://cx-oracle.readthedocs.org/en/latest/index.html) - cx_Oracle enables access to Oracle 10G, 11G and 12C databases
     * [mysql-python](http://sourceforge.net/projects/mysql-python/) - The MySQL database connector for Python.
     * [mysql-connector-python](https://pypi.python.org/pypi/mysql-connector-python) - A pure Python MySQL driver from Oracle (in case you don't want or can't install system MySQL library)
     * [oursql](https://pythonhosted.org/oursql/) - A better MySQL connector for Python with support for native prepared statements and BLOBs.
